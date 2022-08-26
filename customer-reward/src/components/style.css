@@ -1,0 +1,19 @@
+.namediv {
+    width: 200px;
+    margin: 20px;
+  }
+  
+  .name:hover {
+    border: 1px solid black;
+    cursor: pointer;
+  }
+  
+  .customdiv {
+    display: flex;
+    gap: 100px;
+  }
+  table,tr,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
